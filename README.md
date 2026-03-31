@@ -40,7 +40,7 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 <p align="center">
   <img src="gallery/art1.jpg" width="30%" alt="Artwork 1" />
   <img src="gallery/art2.jpg" width="30%" alt="Artwork 2" />
-  <img src="gallery/art3.jpg" width="30%" alt="Artwork 3" />
+  <img src="gallery/art3.png" width="30%" alt="Artwork 3" />
 </p>
 
 ---
