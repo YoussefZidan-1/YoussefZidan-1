@@ -18,7 +18,7 @@ I'm a self-taught **Software Developer** from Egypt. I don't just write code; I 
 
 | 💻 Programming & Web | 🎨 Creative Arts (AV) | 🐧 System & Environment |
 | :--- | :--- | :--- |
-| **C** | **Digital Art** | **Ghostty Terminal** |
+| **C** | **Digital Art** | **Ghostty Terminal** | **Zen Browser** |
 | **React 19 / JSX / TSX** | **DaVinci Resolve (Video)** | **Arch Linux (BTW)** |
 | **TypeScript / JavaScript** | **FL Studio (Audio)** | **Hyprland (Tiling WM)** |
 | **Tailwind CSS v4** | **Blender (3D Design)** | **Neovim / VS Code** |
