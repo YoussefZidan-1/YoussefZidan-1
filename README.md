@@ -53,6 +53,7 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 ### 📫 Connect with me
 <p align="left">
 <a href="https://github.com/YoussefZidan-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YoussefZidan-1" height="30" width="40" /></a>
+<a href="https://wa.me/201113743736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201113743736" height="30" width="40" /></a>
 </p>
 
 ---
