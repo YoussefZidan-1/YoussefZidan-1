@@ -6,7 +6,7 @@
 
 ---
 ### 🌌 About Me
-I'm a self-taught **Software Developer** from Egypt. I don't just write code; I craft digital experiences. I believe in the **Right to Repair** and the power of **Open Source**.
+I'm a **Software Developer** from Egypt. I don't just write code; I craft digital experiences. I believe in the **Right to Repair** and the power of **Open Source**.
 
 - 🛠️ Currently mastering **React 19** & **Creative Web Development**.
 - 🐧 **I Use Arch Btw With Hyprland BTW**
