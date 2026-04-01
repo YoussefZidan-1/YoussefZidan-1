@@ -25,15 +25,6 @@ I'm a self-taught **Software Developer** from Egypt. I don't just write code; I 
 | **HTML5 / CSS3** | **Traditional Sketching** | **Zen Browser** |
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefZidan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Youssef's Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎨 Creative Portfolio | Beyond the Code
 When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist** helps me build better User Interfaces with a creative edge.
 
