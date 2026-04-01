@@ -5,7 +5,6 @@
 </div>
 
 ---
-
 ### 🌌 About Me
 I'm a self-taught **Software Developer** from Egypt. I don't just write code; I craft digital experiences. I believe in the **Right to Repair** and the power of **Open Source**.
 
@@ -34,6 +33,14 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
   <img src="gallery/art3.png" width="30%" alt="Artwork 3" />
 </p>
 
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</p>
 ---
 
 ### 🎵 Current Vibe
