@@ -1,4 +1,4 @@
-# 👨‍💻 Youssef Zidan | Creative Web Developer 🚀
+# 👨‍💻 Yousef Zedan | Creative Web Developer 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Software+Developer;React+Enthusiast;I+Use+Arch+Btw;Digital+Artist" alt="Typing SVG" />
