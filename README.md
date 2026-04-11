@@ -1,4 +1,4 @@
-# 👨‍💻 Yousef Zedan | Creative Web Developer 🚀
+# 👨‍💻 Yousef Zedan | Creative Developer 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Software+Developer;React+Enthusiast;I+Use+Arch+Btw;Digital+Artist" alt="Typing SVG" />
@@ -49,12 +49,29 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://github.com/YoussefZidan-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YoussefZidan-1" height="30" width="40" /></a>
-<a href="https://wa.me/201130765715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201113743736" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://yzportfolio.vercel.app" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/internet--v1.png" alt="Portfolio" height="50" width="50" />
+  </a>
+  <a href="mailto:zedstudios.devs@gmail.com" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/gmail-new.png" alt="Gmail" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/yousef-zedan-6a275a400" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/linkedin.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://wa.me/201130765715" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/whatsapp--v1.png" alt="WhatsApp" height="50" width="50" />
+  </a>
+  <a href="https://x.com/YousefZeda59629" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/twitterx--v2.png" alt="X" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/yousef__zedan1/" target="blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/instagram-new--v1.png" alt="Instagram" height="50" width="50" />
+  </a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefZidan-1&label=Profile%20Views&color=1793D1&style=flat" alt="Views" />
 </p>
