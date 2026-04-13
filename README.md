@@ -24,7 +24,7 @@ I'm a **Software Developer** from Egypt. I don't just write code; I craft digita
 | **HTML5 / CSS3** | **Traditional Sketching** | **Zen Browser** |
 ---
 
-### 🎨 Creative Portfolio | Beyond the Code
+### 🎨 Beyond the Code
 When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist** helps me build better User Interfaces with a creative edge.
 
 <p align="center">
