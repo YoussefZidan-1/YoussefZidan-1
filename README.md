@@ -47,7 +47,6 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
-
 ### 📫 Connect with me
 <p align="center">
   <a href="https://yzportfolio.vercel.app" target="blank">
@@ -71,7 +70,6 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 </p>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefZidan-1&label=Profile%20Views&color=1793D1&style=flat" alt="Views" />
 </p>
