@@ -63,9 +63,6 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
   <a href="https://wa.me/201130765715" target="blank">
     <img src="https://img.icons8.com/ios/50/B4BEFE/whatsapp--v1.png" alt="WhatsApp" height="50" width="50" />
   </a>
-  <a href="https://x.com/YousefZeda59629" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/twitterx--v2.png" alt="X" height="50" width="50" />
-  </a>
   <a href="https://www.instagram.com/yousef__zedan1/" target="blank">
     <img src="https://img.icons8.com/ios/50/B4BEFE/instagram-new--v1.png" alt="Instagram" height="50" width="50" />
   </a>
