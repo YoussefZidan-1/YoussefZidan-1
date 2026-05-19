@@ -39,8 +39,7 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YoussefZidan-1&theme=catppuccin-mocha&border_radius=20&background=45%2CB00EA1%2C270325" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="Activity Graph" />
