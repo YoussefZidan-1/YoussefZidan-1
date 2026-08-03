@@ -1,31 +1,32 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Software+Developer;React+Enthusiast;I+Use+Arch+Btw;Digital+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=Low-Level+%26+System+Programming;C+%2F+Wayland+%2F+Linux+Desktop;Creative+Web+Engineering;UI%2FUX+%26+Digital+Art" alt="Typing SVG" />
 </div>
 
 ---
-### 🌌 About Me
-I'm a **Software Developer** from Egypt. I don't just write code;
-I craft digital experiences.
-I believe in the **Right to Repair** and the power of **Open Source**.
 
-- 🛠️ Currently mastering **React 19** & **Creative Web Development**.
-- 🐧 **I Use Arch Btw With Hyprland BTW**
-- 🎨 **Left-handed Artist:** I use my creative side to build better UIs.
+### 🌌 About Me
+I'm a **Software Engineer** focused on building low-level desktop utilities, custom Linux environments, and highly performant web applications. I bridge the gap between heavy C systems and modern, fluid user interfaces.
+
+- 🛠️ **Open Source:** Active contributor to Wayland compositors like [iluaii/fwm](https://github.com/iluaii/fwm) (C / wlroots).
+- 📦 **Creator:** Built [ZProximityEngine](https://www.npmjs.com/) — A physics-over-UI animation package.
+- 🚀 **Building:** Currently developing **ZED OS** — A custom QML/QuickShell desktop environment.
+- 🎨 **Creative Side:** Traditional artist & audio producer applying design principles directly into UI/UX.
 
 ---
-### 🛠️ My Tech Stack
 
-| 💻 Programming & Web | 🎨 Creative Arts (AV) | 🐧 System & Environment |
+### 🛠️ Tech Stack
+
+| 💻 Systems & Web | 🎨 Creative & Media | 🐧 Environment |
 | :--- | :--- | :--- |
-| **C** | **Digital Art** | **Ghostty Terminal** |
-| **React 19 / JSX / TSX** | **DaVinci Resolve (Video)** | **Arch Linux (BTW)** |
-| **TypeScript / JavaScript** | **FL Studio (Audio)** | **Hyprland (Tiling WM)** |
-| **Tailwind CSS v4** | **Blender (3D Design)** | **Neovim / VS Code** |
-| **HTML5 / CSS3** | **Traditional Sketching** | **Zen Browser** |
+| **C** • **JavaScript / TypeScript** | **Digital & Traditional Art** | **Arch Linux / CachyOS** |
+| **React 19** • **Zustand** | **FL Studio (Audio Production)** | **Hyprland / Wayland** |
+| **Tailwind CSS v4** • **GSAP** | **DaVinci Resolve** | **Neovim / Ghostty** |
+| **HTML5 / CSS3** • **Vite** | **Blender (3D Modeling)** | **Git & GitHub** |
+
 ---
 
 ### 🎨 Beyond the Code
-When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist** helps me build better User Interfaces with a creative edge.
+Being a **Traditional & Digital Artist** shapes how I approach UI engineering — focusing on depth, geometry, and fluid motion rather than just static layout.
 
 <p align="center">
   <img src="gallery/art1.jpg" width="30%" alt="Artwork 1" />
@@ -34,38 +35,47 @@ When I'm not writing code, I'm crafting visual art. Being a **Traditional Artist
 </p>
 
 ---
-### 📊 GitHub Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YoussefZidan-1&theme=catppuccin-mocha&border_radius=20&background=45%2CB00EA1%2C270325" alt="GitHub Streak" /></a>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YoussefZidan-1&theme=catppuccin-mocha&border_radius=15&background=45%2CB00EA1%2C270325" alt="GitHub Streak" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
----
-
-### 🎵 Current Vibe
-> *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
-### 📫 Connect with me
+
+### 📫 Connect with Me
+
 <p align="center">
-  <a href="https://yzportfolio.vercel.app" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/internet--v1.png" alt="Portfolio" height="50" width="50" />
+  <a href="https://yzportfolio.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/internet--v1.png" alt="Portfolio" height="40" width="40" />
   </a>
-  <a href="mailto:zedstudios.devs@gmail.com" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/gmail-new.png" alt="Gmail" height="50" width="50" />
+  &nbsp;&nbsp;
+  <a href="mailto:zedstudios.devs@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/gmail-new.png" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/yousef-zedan-6a275a400" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/linkedin.png" alt="LinkedIn" height="50" width="50" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yousef-zedan-6a275a400" target="_blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://wa.me/201130765715" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/whatsapp--v1.png" alt="WhatsApp" height="50" width="50" />
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201130765715" target="_blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/whatsapp--v1.png" alt="WhatsApp" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/yousef__zedan1/" target="blank">
-    <img src="https://img.icons8.com/ios/50/B4BEFE/instagram-new--v1.png" alt="Instagram" height="50" width="50" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yousef__zedan1/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/B4BEFE/instagram-new--v1.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefZidan-1&label=Profile%20Views&color=1793D1&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=YoussefZidan-1&label=Profile%20Views&color=1793D1&style=flat-square" alt="Views" />
 </p>
