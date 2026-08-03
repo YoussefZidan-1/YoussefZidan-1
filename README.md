@@ -1,7 +1,3 @@
-<p align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yousef%20Zedan&fontColor=FFFFFF&fontSize=40&animation=blink&textBg=false&descAlign=58" />
-</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Software+Developer;React+Enthusiast;I+Use+Arch+Btw;Digital+Artist" alt="Typing SVG" />
 </div>
