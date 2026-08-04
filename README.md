@@ -38,10 +38,9 @@ Being a **Traditional & Digital Artist** shapes how I approach UI engineering â€
 ### ðŸ“Š GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YoussefZidan-1&theme=catppuccin-mocha&border_radius=15&background=45%2CB00EA1%2C270325" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoussefZidan-1&theme=tokyonight&border_radius=20&fire=EB2CD3" alt="GitHub Streak" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefZidan-1&theme=tokyonight&hide_border=true" alt="Activity Graph" />
