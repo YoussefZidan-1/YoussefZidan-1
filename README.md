@@ -9,7 +9,6 @@ I'm a **Software Engineer** focused on building low-level desktop utilities, cus
 
 - 🛠️ **Open Source:** Active contributor to Wayland compositors like [iluaii/fwm](https://github.com/iluaii/fwm) (C / wlroots).
 - 📦 **Creator:** Built [ZProximityEngine](https://www.npmjs.com/) — A physics-over-UI animation package.
-- 🚀 **Building:** Currently developing **ZED OS** — A custom QML/QuickShell desktop environment.
 - 🎨 **Creative Side:** Traditional artist & audio producer applying design principles directly into UI/UX.
 
 ---
