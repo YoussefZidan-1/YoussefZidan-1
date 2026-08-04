@@ -18,7 +18,7 @@ I'm a **Software Engineer** focused on building low-level desktop utilities, cus
 | 💻 Systems & Web | 🎨 Creative & Media | 🐧 Environment |
 | :--- | :--- | :--- |
 | **C** • **JavaScript / TypeScript** | **Digital & Traditional Art** | **Arch Linux / CachyOS** |
-| **React 19** • **Zustand** | **FL Studio (Audio Production)** | **Hyprland / Wayland** |
+| **React 19** • **Zustand** | **FL Studio (Audio Production)** | **FWM** |
 | **Tailwind CSS v4** • **GSAP** | **DaVinci Resolve** | **Neovim / Ghostty** |
 | **HTML5 / CSS3** • **Vite** | **Blender (3D Modeling)** | **Git & GitHub** |
 
