@@ -26,7 +26,7 @@
       <p>I'm a <b>Software Engineer</b> specializing in low-level desktop utilities, custom Linux environments, and high-performance interactive web applications. I bridge the gap between heavy C systems and modern, fluid visual experiences.</p>
       <ul>
         <li>🛠️ <b>Open Source:</b> Active contributor to Wayland compositors like <a href="https://github.com/iluaii/fwm"><b>iluaii/fwm</b></a> (C / wlroots).</li>
-        <li>📦 <b>Creator:</b> Built <a href="https://www.npmjs.com/package/zproximity-engine"><b>ZProximity Engine</b></a> — A physics-over-UI animation engine.</li>
+        <li>📦 <b>Creator:</b> Built <a href="https://www.npmjs.com/package/z-proximity-engine"><b>ZProximity Engine</b></a> — A physics-over-UI animation engine.</li>
         <li>🎨 <b>Creative Mind:</b> Traditional artist & audio producer applying classical design & geometry directly into modern UI/UX.</li>
       </ul>
     </td>
@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📦 **[ZProximity Engine](https://www.npmjs.com/package/zproximity-engine)** | A physics-over-UI animation engine for fluid & spatial web interactions. | `TypeScript` `React` `GSAP` `npm` |
+| 📦 **[ZProximity Engine](https://www.npmjs.com/package/z-proximity-engine)** | A physics-over-UI animation engine for fluid & spatial web interactions. | `TypeScript` `React` `GSAP` `npm` |
 | 🪟 **[fwm](https://github.com/iluaii/fwm)** | Active contributor to this C/wlroots-based Wayland compositor. | `C` `wlroots` `Wayland` |
 
 ---
