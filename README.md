@@ -18,7 +18,7 @@
 
 ---
 
-### 🌌 <font color="#cba6f7">About Me</font>
+### 🌌 About Me
 
 <table>
   <tr>
@@ -29,11 +29,22 @@
         <li>📦 <b>Creator:</b> Built <a href="https://www.npmjs.com/package/zproximity-engine"><b>ZProximity Engine</b></a> — A physics-over-UI animation engine.</li>
         <li>🎨 <b>Creative Mind:</b> Traditional artist & audio producer applying classical design & geometry directly into modern UI/UX.</li>
       </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🛠️ <font color="#89b4fa">Tech Stack & Ecosystem</font>
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📦 **[ZProximity Engine](https://www.npmjs.com/package/zproximity-engine)** | A physics-over-UI animation engine for fluid & spatial web interactions. | `TypeScript` `React` `GSAP` `npm` |
+| 🪟 **[fwm](https://github.com/iluaii/fwm)** | Active contributor to this C/wlroots-based Wayland compositor. | `C` `wlroots` `Wayland` |
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -66,7 +77,7 @@
 
 ---
 
-### 🎨 <font color="#f38ba8">Creative Gallery</font>
+### 🎨 Creative Gallery
 > *"Being a Traditional & Digital Artist shapes how I approach UI engineering — focusing on depth, geometry, and fluid motion rather than static layouts."*
 
 <p align="center">
@@ -79,10 +90,9 @@
 
 ---
 
-### 📊 <font color="#a6e3a1">Analytics & Contributions</font>
+### 📊 Analytics & Contributions
 
 <br/>
-
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -98,7 +108,7 @@
 
 ---
 
-### 📫 <font color="#fab387">Connect with Me</font>
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://yzportfolio.vercel.app" target="_blank">
@@ -123,3 +133,7 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <i>"Building systems from scratch & shaping visuals with code."</i> ✨
+</p>
