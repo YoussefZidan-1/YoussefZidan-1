@@ -41,7 +41,7 @@
 | :--- | :--- | :--- |
 | 📦 **[ZProximity Engine](https://www.npmjs.com/package/z-proximity-engine)** | A physics-over-UI animation engine for fluid & spatial web interactions. | `TypeScript` `React` `GSAP` `npm` |
 | 🪟 **[fwm](https://github.com/iluaii/fwm)** | Active contributor to this C/wlroots-based Wayland compositor. | `C` `wlroots` `Wayland` |
-
+| 🌐️ **[fwm-website](https://fwm-website.vercel.app)** | Maintainer of fwm-website [repo](https://github.com/iluaii/fwm-website) | `TypeScript` `React` `GSAP` `ZProximity Engine` |
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
