@@ -40,8 +40,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📦 **[ZProximity Engine](https://www.npmjs.com/package/z-proximity-engine)** | A physics-over-UI animation engine for fluid & spatial web interactions. | `TypeScript` `React` `GSAP` `Lenis` `npm` |
+| 💻️ **[ZPortfolio](https://www.github.com/YoussefZidan-1/ZPortfolio)** | A full MacOS portfolio website | `React` `GSAP` `Zustand` `ZProximity Engine` `Tailwind CSS` |
 | 🪟 **[fwm](https://github.com/iluaii/fwm)** | Active contributor to this C/wlroots-based Wayland compositor. | `C` `wlroots` `Wayland` `Box2D V3` |
-| 🌐️ **[fwm-website](https://fwm-website.vercel.app)** | Maintainer of fwm-website [repo](https://github.com/iluaii/fwm-website) | `TypeScript` `React` `GSAP` `Lenis` `ZProximity Engine` |
+| 🌐️ **[fwm-website](https://fwm-website.vercel.app)** | Maintainer of fwm-website [repo](https://github.com/iluaii/fwm-website) | `Astro` `TypeScript` `React` `GSAP` `Lenis` `ZProximity Engine` `Tailwind CSS` |
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
